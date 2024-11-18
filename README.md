@@ -1,4 +1,4 @@
-# INFO 2300(Ba
+# INFO 2300(Backend Development)
 *Admin** view all entries:_
 
 1. in url do /adminview
